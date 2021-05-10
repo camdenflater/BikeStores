@@ -1,5 +1,5 @@
 # BikeStores
-SQL query authoring using sample database BikeStores from SQLServerTutorial.net
+SQL query authoring and Power BI visualizing using sample database BikeStores
 
 Objective: Use SQL to analyze data and solve real world data reporting and modeling needs 
 
