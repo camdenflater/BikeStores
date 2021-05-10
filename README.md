@@ -7,13 +7,21 @@ Tools Used: SQL Server, SQL Server Management Studio, Microsoft Power BI
 
 Tables:
 -Brands (Production)
+
 -Categories (Production)
+
 -Products (Production)
+
 -Stocks (Production)
+
 -Customers (Sales)
+
 -Orders (Sales)
+
 -Order Items (Sales)
+
 -Staffs (Sales)
+
 -Stores (Sales)
 
 
