@@ -6,6 +6,7 @@ Objective: Use SQL to analyze data and solve real world data reporting and model
 Tools Used: SQL Server, SQL Server Management Studio, Microsoft Power BI
 
 Tables:
+
 -Brands (Production)
 
 -Categories (Production)
