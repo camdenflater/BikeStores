@@ -1,7 +1,7 @@
 # BikeStores
-SQL query authoring and Power BI visualizing using sample database BikeStores
+T-SQL query authoring and Microsoft Power BI visualizing using sample database 'BikeStores'
 
-Objective: Use SQL to analyze data and solve real world data reporting and modeling needs 
+Objective: Use SQL to analyze data and solve real world data reporting and modeling needs for a made up bike retail company 
 
 Tools Used: SQL Server Management Studio, Microsoft Power BI
 
