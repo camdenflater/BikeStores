@@ -3,7 +3,7 @@ T-SQL query authoring and Microsoft Power BI visualizing using sample database '
 
 Objective: Use SQL to analyze data and solve real world data reporting and modeling needs for a made up bike retail company 
 
-Tools Used: SQL Server Management Studio, Microsoft Power BI
+Analytics Tools Used: SQL Server Management Studio, Microsoft Power BI
 
 Tables:
 
